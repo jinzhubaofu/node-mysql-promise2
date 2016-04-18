@@ -1,0 +1,27 @@
+{
+  "name": "node-mysql-promise2",
+  "version": "0.1.0",
+  "description": "Wrap mysql API with Promise",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinzhubaofu/node-mysql-promise.git"
+  },
+  "keywords": [
+    "Promise",
+    "mysql",
+    "node-mysql"
+  ],
+  "author": "leonlu@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinzhubaofu/node-mysql-promise/issues"
+  },
+  "homepage": "https://github.com/jinzhubaofu/node-mysql-promise#readme",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  }
+}
